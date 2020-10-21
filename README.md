@@ -11,7 +11,7 @@ a readme file in /home/yamn.
 wget --no-check-certificate https://dotfiles.tnetconsulting.net/files/debian-x64-yamn-remailer.deb  
 
   
-To install the package , in /root do:  
+To install the package, in /root do:  
  
  sudo dpkg -i debian-x64-yamn-remailer.deb  
  
