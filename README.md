@@ -14,4 +14,7 @@ wget --no-check-certificate https://dotfiles.tnetconsulting.net/files/debian-x64
 To install the package, in /root, do:  
  
  sudo dpkg -i debian-x64-yamn-remailer.deb  
+   
+   
+Follow the instructions for starting the yamn remailer that are explained during the installation. The readme file in the yamn folder contains needed instructions also.
  
