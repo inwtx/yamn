@@ -8,6 +8,8 @@ a readme file in /home/yamn.
   
   To download the package, in /root, do:  
   
+wget --no-check-certificate https://raw.githubusercontent.com/inwtx/yamn/main/debian-x64-yamn-remailer.v1.1.deb  
+or  
 wget --no-check-certificate https://dotfiles.tnetconsulting.net/files/debian-x64-yamn-remailer.deb  
 
   
